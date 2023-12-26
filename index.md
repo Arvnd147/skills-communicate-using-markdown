@@ -11,3 +11,7 @@ Class Aravind{
 ```Python
 print("Hello World")
 ```
+My tasks:
+- [] See IBM DS course in Coursera
+- [] Do the AI summarizer app in **POSTMAN**
+- [x] Today's streak in GitHub
